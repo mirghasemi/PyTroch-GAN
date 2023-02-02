@@ -1,6 +1,8 @@
 <p align="center"><img src="assets/logo.png" width="480"\></p>
 
 My experience are summarized as:
+1. Starting
+2. Ideas about visualization
 
 
 ## PyTorch-GAN
